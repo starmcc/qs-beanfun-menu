@@ -21,7 +21,7 @@
     {
         "name": "nav_baidu",
         "type": 0,
-        "title": "游戏橘子官网",
+        "title": "百度贴吧",
         "data": [
             {
                 "name": "nav_baidu_beanfun",
@@ -46,7 +46,7 @@
     {
         "name": "custom_recharge",
         "type": 3,
-        "title": "充值通道",
+        "title": "GASH官方充值通道",
         "data": "https://cdn.jsdelivr.net/gh/starmcc/qs-beanfun-menu@master/datas/shop_list.png"
     },
     {
