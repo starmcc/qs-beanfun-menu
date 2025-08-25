@@ -4,5 +4,11 @@
         "type": 3,
         "title": "充值通道",
         "data": "https://cdn.jsdelivr.net/gh/starmcc/qs-beanfun-menu@master/datas/shop_list.png"
+    },
+    {
+        "name":"custom_auther_bilibili",
+        "type": 1,
+        "title": "作者B站",
+        "data": "https://space.bilibili.com/391919722"
     }
 ]
