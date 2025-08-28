@@ -47,7 +47,7 @@
         "name": "custom_recharge",
         "type": 3,
         "title": "GASH官方充值通道",
-        "data": "https://cdn.jsdelivr.net/gh/starmcc/qs-beanfun-menu@master/datas/shop_list.png"
+        "data": "https://gitee.com/starmcc/qs-beanfun-menu/raw/master/datas/shop_list.png"
     },
     {
         "name": "nav_bahamute",
